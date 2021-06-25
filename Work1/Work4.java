@@ -1,3 +1,6 @@
+package Work1;
+
+
 public class Work4 {
     public static void main(String[] args) {
         int args1 = Integer.parseInt(args[0]);
